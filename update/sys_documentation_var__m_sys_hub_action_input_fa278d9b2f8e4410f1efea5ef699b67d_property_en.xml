@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="property" label="Property" language="en" table="var__m_sys_hub_action_input_fa278d9b2f8e4410f1efea5ef699b67d">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>property</element>
+            <help/>
+            <hint/>
+            <label>Property</label>
+            <language>en</language>
+            <name>var__m_sys_hub_action_input_fa278d9b2f8e4410f1efea5ef699b67d</name>
+            <plural/>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>yuzuru.shimura</sys_created_by>
+            <sys_created_on>2020-01-05 05:11:03</sys_created_on>
+            <sys_id>af5f85132fce4410f1efea5ef699b6cb</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Property</sys_name>
+            <sys_package display_value="NeedIt Spoke" source="x_214746_needit_sp">18e6899b2f8e4410f1efea5ef699b63b</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="NeedIt Spoke">18e6899b2f8e4410f1efea5ef699b63b</sys_scope>
+            <sys_update_name>sys_documentation_var__m_sys_hub_action_input_fa278d9b2f8e4410f1efea5ef699b67d_property_en</sys_update_name>
+            <sys_updated_by>yuzuru.shimura</sys_updated_by>
+            <sys_updated_on>2020-01-05 05:11:03</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

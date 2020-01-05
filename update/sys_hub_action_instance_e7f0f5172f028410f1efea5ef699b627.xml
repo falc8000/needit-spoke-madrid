@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_hub_action_instance">
+    <sys_hub_action_instance action="INSERT_OR_UPDATE">
+        <action_inputs/>
+        <action_type display_value="Get Days Ago Date">d2bee5132f028410f1efea5ef699b60d</action_type>
+        <action_type_parent/>
+        <comment/>
+        <compiled_snapshot/>
+        <display_text/>
+        <flow display_value="Action Test Flow">ea38859b2f8e4410f1efea5ef699b690</flow>
+        <order>1</order>
+        <parent_ui_id/>
+        <sys_class_name>sys_hub_action_instance</sys_class_name>
+        <sys_created_by>yuzuru.shimura</sys_created_by>
+        <sys_created_on>2020-01-05 07:37:58</sys_created_on>
+        <sys_id>e7f0f5172f028410f1efea5ef699b627</sys_id>
+        <sys_mod_count>4</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="NeedIt Spoke" source="x_214746_needit_sp">18e6899b2f8e4410f1efea5ef699b63b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt Spoke">18e6899b2f8e4410f1efea5ef699b63b</sys_scope>
+        <sys_update_name>sys_hub_action_instance_e7f0f5172f028410f1efea5ef699b627</sys_update_name>
+        <sys_updated_by>yuzuru.shimura</sys_updated_by>
+        <sys_updated_on>2020-01-05 08:41:09</sys_updated_on>
+        <ui_id>002d7aa1-4abf-45c7-a986-91d2fa496fd5</ui_id>
+    </sys_hub_action_instance>
+    <sys_variable_value action="delete_multiple" query="document_key=e7f0f5172f028410f1efea5ef699b627"/>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_hub_action_instance</document>
+        <document_key>e7f0f5172f028410f1efea5ef699b627</document_key>
+        <order>0</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>yuzuru.shimura</sys_created_by>
+        <sys_created_on>2020-01-05 07:37:58</sys_created_on>
+        <sys_id>f7f0f5172f028410f1efea5ef699b62c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>yuzuru.shimura</sys_updated_by>
+        <sys_updated_on>2020-01-05 07:37:58</sys_updated_on>
+        <value>12</value>
+        <variable display_value="">7c807dd32f028410f1efea5ef699b61b</variable>
+    </sys_variable_value>
+</record_update>
